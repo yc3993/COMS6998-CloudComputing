@@ -5,3 +5,8 @@
 <div>https://dev2057.d2zrxc0rfx4j6u.amplifyapp.com</div>
 <div>AWS Amplify, Amazon API Gateway, AWS Lambda, and Amazon DynamoDB</div>
 
+
+hw0:
+
+https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/?e=gs2020&p=fullstack
+
